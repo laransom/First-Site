@@ -1,0 +1,61 @@
+body {
+    background-color:#CEECF5;
+}
+h1 {
+    font-family: cursive;
+    font-size:50px;
+    color:#070719;
+    text-align:center;
+    padding:25px;
+}
+#header {
+    background-color:#2E9AFE;
+    border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#welcome {
+    height:1px;
+    width:1px;
+}
+#waterfall {
+    float:left;
+    width:30%;
+    margin-top:20px;
+}
+#waterfallimg {
+    height:415px;
+    width:345px;
+}
+#content {
+    float:right;
+    width:60%;
+    margin-right:45px;
+    margin-left:45px;
+}
+#bicycle {
+    clear:both;
+}
+p {
+    font-family:Georgia, sans-serif;
+    line-height:1.7em;
+    width:40em;
+    margin-left:2em;
+}
+#links {
+    clear:both;
+    margin-left:350px;
+    
+}
+a img {
+    height:100px;
+    width:125px;
+    margin:20px;
+}
+#bicycleimg {
+    height:150px;
+    width:205px;
+}
+#selfie {
+    height:150px;
+    width:135px;
+ }
